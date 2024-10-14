@@ -31,5 +31,5 @@
     Skapa en animation där flera komponenter (t.ex. bilder) visas en i taget med olika effekter.
 
 ## Anime.js Bootcamp
-Ni kan med fördel även kika på utvalda övningarnfrån [Anime.js Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-41-exercise-anime-js-bootcamp).
+Ni kan med fördel även kika på utvalda övningar från [Anime.js Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-41-exercise-anime-js-bootcamp) men istället lösa dem med framer motion.
 Övning 1 - 10 (förutom 7) borde gå att lösa.
