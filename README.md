@@ -29,3 +29,7 @@
 
 10. **Sekvensanimering**  
     Skapa en animation där flera komponenter (t.ex. bilder) visas en i taget med olika effekter.
+
+## Anime.js Bootcamp
+Ni kan med fördel även kika på utvalda övningarnfrån [Anime.js Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-41-exercise-anime-js-bootcamp).
+Övning 1 - 10 (förutom 7) borde gå att lösa.
